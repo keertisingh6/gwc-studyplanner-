@@ -1,7 +1,5 @@
 # StudySync - Group Study Scheduler
 
-<img width="1536" height="1024" alt="ChatGPT Image Sep 29, 2025, 03_01_05 AM" src="https://github.com/user-attachments/assets/2ea93a7f-e9f8-49a9-87aa-a0d12e760fb3" />
-
 
 ## 📌 Overview
 
